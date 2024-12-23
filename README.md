@@ -1,1 +1,1 @@
-### Hi there 👋
+Study Journal
