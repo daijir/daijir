@@ -1,8 +1,8 @@
 # Attack DC-1 Machine
 
 ```bash
-ifconfig
-fping -aqg 192.168.56.0/24
+sudo ifconfig
+sudo fping -aqg 192.168.56.0/24
 export IP=192.168.56.103
 echo $IP
 
@@ -12,6 +12,8 @@ nmap -sC -sV -p 1-65535 $IP
 
 export URL="http://$IP:80/"
 echo $URL
+python3 -m venv ~/myenv
+source ~/myenv/bin/activate
 droopescan --help
 
 sudo dhclient -r
