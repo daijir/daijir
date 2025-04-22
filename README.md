@@ -2,8 +2,8 @@
 
 🌟 Welcome to my GitHub profile! Here’s a little about me:
 
-- 🔭 I’m a Cybersecurity major student
-- 🌱 I’m learning about **networking** and **security engineering**  
+- 🔭 I’m a Software Engineering major student
+- 🌱 I’m learning about **Web Development** and **Penetration Test**  
 - 📚 I love combining hands-on quizzes and practical coding to deepen my understanding  
 - ⚡ Fun fact: I enjoy jogging and reading in my free time!  
 
