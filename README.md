@@ -11,7 +11,7 @@
 - 💼 [LinkedIn](https://www.linkedin.com/in/daijiro-sagane-b50506291/)
 
 ## 💻  Websites I created
-- [Chamber Website](https://daijir.github.io/wdd231/chamber/index.html)
+- [wdd231 class Website](https://daijir.github.io/wdd231/index.html)
 - [Car Website](https://wdd340-starter-zsvd.onrender.com/)
 
 ## 📊 GitHub Stats  
