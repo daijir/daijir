@@ -1,20 +1,33 @@
-# Hi there, I'm Daijiro Sagane 👋  
+Hi there, I'm Daijiro Sagane 👋
+Welcome to my GitHub profile! I'm a Software Development student at Brigham Young University-Idaho with a passion for creating dynamic web applications and exploring the world of cybersecurity.
 
-🌟 Welcome to my GitHub profile! Here’s a little about me:
+👨‍💻 About Me
+🔭 I’m currently majoring in Software Development.
 
-- 🔭 I’m a Software Development major student
-- 🌱 I’m learning about **Web Development** and **Penetration Test**  
-- 📚 I love combining hands-on quizzes and practical coding to deepen my understanding  
-- ⚡ Fun fact: I enjoy jogging and reading in my free time!  
+🌱 I’m learning full-stack Web Development and diving into the fundamentals of Penetration Testing.
 
-## 🔗 Connect with Me  
+📚 I believe in a hands-on approach to learning, combining practical coding and projects to solidify my understanding.
+
+⚡ Fun fact: In my free time, I enjoy jogging and reading!
+
+💻 Technologies and Tools
+Here are some of the technologies I work with:
+
+<div>
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
+<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
+</div>
+
+🚀 My Projects
+[WDD 231 - Web Frontend Development I](https://daijir.github.io/wdd231/): A collection of coursework and projects focusing on foundational HTML, CSS, and JavaScript.
+
+[WDD 340 - Web Backend Development I](https://wdd340-starter-zsvd.onrender.com/): Course projects demonstrating skills in server-side development with Node.js and related technologies.
+
+🔗 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daijiro-sagane-b50506291/)
 
-## 💻  Websites I created
-- [wdd231 Class Website](https://daijir.github.io/wdd231/index.html)
-- [wdd340 Class Website](https://wdd340-starter-zsvd.onrender.com/)
-
-## 📊 GitHub Stats  
+📊 GitHub Stats  
 ![Daijiro's GitHub Stats](https://github-readme-stats.vercel.app/api?username=daijir&show_icons=true&theme=tokyonight)
-
----
