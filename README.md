@@ -18,10 +18,12 @@ HTML, CSS, JavaScript, Node.js, Git<br>
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div><br>
 
-🚀 My Projects
-[WDD 231 - Web Frontend Development I](https://daijir.github.io/wdd231/): A collection of coursework and projects focusing on foundational HTML, CSS, and JavaScript.
+🚀 My Projects<br>
+[WDD 231 - Web Frontend Development I](https://daijir.github.io/wdd231/):
+ - A collection of coursework and projects focusing on foundational HTML, CSS, and JavaScript.
 
-[WDD 340 - Web Backend Development I](https://wdd340-starter-zsvd.onrender.com/): Course projects demonstrating skills in server-side development with Node.js and related technologies.
+[WDD 340 - Web Backend Development I](https://wdd340-starter-zsvd.onrender.com/):
+ - Course projects demonstrating skills in server-side development with Node.js and related technologies.<br>
 
 🔗 Connect with Me  
 - 💼 [LinkedIn](https://www.linkedin.com/in/daijiro-sagane-b50506291/)
