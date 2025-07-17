@@ -3,21 +3,17 @@ Welcome to my GitHub profile! I'm a Software Development student at Brigham Youn
 
 👨‍💻 About Me
 🔭 I’m currently majoring in Software Development.
-
 🌱 I’m learning full-stack Web Development and diving into the fundamentals of Penetration Testing.
-
 📚 I believe in a hands-on approach to learning, combining practical coding and projects to solidify my understanding.
-
 ⚡ Fun fact: In my free time, I enjoy jogging and reading!
 
 💻 Technologies and Tools
 Here are some of the technologies I work with:
-
 <div>
 <img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/html5/html5-original-wordmark.svg" title="HTML5" alt="HTML5" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original-wordmark.svg" title="CSS3" alt="CSS3" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
-<img src="https://www.google.com/search?q=https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
+<img src="https://github.com/devicons/devicon/blob/master/icons/nodejs/nodejs-original-wordmark.svg" title="Node.js" alt="Node.js" width="40" height="40"/>&nbsp;
 <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" title="Git" alt="Git" width="40" height="40"/>&nbsp;
 </div>
 
