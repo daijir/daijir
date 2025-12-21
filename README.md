@@ -4,10 +4,10 @@
 ## Featured Project: [Scripture Habit](https://scripture-habit.vercel.app)
 *Transforming scripture study from a chore into a lifelong habit through community and consistency.*
 Scripture Habit is my most ambitious project to date. It's a full-stack web and mobile application designed to help users build a consistent daily scripture study habit.
-- ** Consistency Driven**: Features a "3-day rule" and gentle reminders to keep users motivated.
-- ** Community-First**: Users can join study groups, share personal reflections, and track progress together.
-- ** Cross-Platform**: Optimized for both web and mobile (Android) using Capacitor.
-- ** Secure & Scalable**: Leverages Firebase for real-time data, authentication, and secure Firestore rules.
+- **Consistency Driven**: Features a "3-day rule" and gentle reminders to keep users motivated.
+- **Community-First**: Users can join study groups, share personal reflections, and track progress together.
+- **Cross-Platform**: Optimized for both web and mobile (Android) using Capacitor.
+- **Secure & Scalable**: Leverages Firebase for real-time data, authentication, and secure Firestore rules.
 **[Live Demo](https://scripture-habit.vercel.app) | [View Repository](https://github.com/daijir/scripture-habit)**
 ---
 ## 👨‍💻 About Me
