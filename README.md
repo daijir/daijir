@@ -1,7 +1,6 @@
 # Daijiro Sagane (daijir)
 
 Software Development Student at **BYU-Idaho / BYU-Pathway Worldwide**  
-Focused on building clean, reliable, and accessible web applications.
 
 ---
 
