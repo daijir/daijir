@@ -4,13 +4,12 @@ Software Development Student at **BYU-Idaho / BYU-Pathway Worldwide**
 
 ---
 
-## Featured Project: Scripture Habit
+## Featured OSS Project: Scripture Habit
 
 Creator and maintainer of **[Scripture Habit](https://scripturehabit.app)**, an ad-free, open-source web application designed to help scripture students and families build a consistent daily habit of studying the scriptures together.
 
 - **Web Application**: [scripturehabit.app](https://scripturehabit.app)
 - **GitHub Repository**: [ScriptureHabit/scripture-habit](https://github.com/ScriptureHabit/scripture-habit)
-- **Key Features**: Offline-first PWA, multi-language localization (10+ locales), real-time group collaboration, and streak tracking.
 
 ---
 
