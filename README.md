@@ -41,7 +41,6 @@ Creator and maintainer of **[Scripture Habit](https://scripturehabit.app)**, an 
 
 <p align="center">
   <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daijir&theme=tokyonight" alt="GitHub Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=daijir&theme=tokyonight" alt="Top Languages" />
 </p>
 
 </p>
