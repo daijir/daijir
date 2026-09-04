@@ -35,18 +35,6 @@ Creator and maintainer of **[Scripture Habit](https://scripturehabit.app)**, an 
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
 ![Sentry](https://img.shields.io/badge/Sentry-362D59?style=for-the-badge&logo=sentry&logoColor=white)
 
----
-
-## GitHub Statistics
-
-<p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=daijir&theme=tokyonight" alt="GitHub Profile Details" />
-</p>
-
-</p>
-
----
-
 ## Links
 
 - **GitHub Sponsors**: [github.com/sponsors/daijir](https://github.com/sponsors/daijir)
